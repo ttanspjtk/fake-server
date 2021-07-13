@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Jane",
+      "age": 22,
+      "email": "janejane@gmail.com",
+      "position": "Junior Frontend",
+      "id": 1
+    },
+    {
+      "name": "Ploy",
+      "age": 23,
+      "email": "ployploy@gmail.com",
+      "position": "Backend",
+      "id": 2
+    },
+    {
+      "name": "David",
+      "age": 31,
+      "email": "david.dv@email.com",
+      "position": "Project Manager",
+      "id": 3
+    }
+  ]
+}
